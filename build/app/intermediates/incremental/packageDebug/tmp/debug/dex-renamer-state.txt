@@ -1,0 +1,4 @@
+#Thu Feb 16 16:04:53 IST 2023
+base.0=/Users/appsums/AndroidStudioProjects/provider_mvvm/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
